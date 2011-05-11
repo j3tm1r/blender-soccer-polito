@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+
+= Introduzione =
+
+Azioni da rendere nel pose mode
+
+ _giocatore_
+
+ || camminata || corsa || passaggio || tiro ||
+
+ _portiere_ 
+
+ || tuffo sin/dex || parata braccio / gamba || uscita || camminata laterale ||  
+ 
+
+= Dettagli =
+
+
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages

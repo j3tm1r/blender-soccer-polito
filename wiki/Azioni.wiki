@@ -12,8 +12,11 @@ Azioni da rendere nel pose mode
 
  || tuffo sin/dex || parata braccio / gamba || uscita || camminata laterale ||  
  
+In conclusione ogni personaggio deve fare tutto!
+
 
 = Dettagli =
+
 
 
   * Text in *bold* or _italic_

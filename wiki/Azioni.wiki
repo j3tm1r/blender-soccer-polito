@@ -2,7 +2,7 @@
 
 = Introduzione =
 
-Azioni da rendere nel pose mode
+ ==Azioni da rendere nel pose mode==
 
  _giocatore_
 
@@ -12,8 +12,14 @@ Azioni da rendere nel pose mode
 
  || tuffo sin/dex || parata braccio / gamba || uscita || camminata laterale ||  
  
-In conclusione ogni personaggio deve fare tutto!
+ In conclusione ogni personaggio deve fare tutto!
 
+
+ ==Ambientazione==
+
+ [http://www.canalgame.com/data/juegos/2345/fifa_street_1.jpg]
+ 
+  
 
 = Dettagli =
 

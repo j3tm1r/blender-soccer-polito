@@ -1,7 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
 *PARAMETRI PER IL RENDERING*
 
 NO raytracing
@@ -14,7 +12,7 @@ Mblur
 AVIRaw in qualità HD
 
 
-= Details =
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_

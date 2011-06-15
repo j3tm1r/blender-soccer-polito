@@ -1,7 +1,15 @@
 #summary One-sentence summary of this page.
+ 
+= Menu =
 
+http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Moving_Menus
 
-= Details =
+http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Pop-Up_Menus
+
+= Tutorials utili =
+
+http://www.tutorialsforblender3d.com/
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_

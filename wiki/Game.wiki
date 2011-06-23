@@ -10,6 +10,14 @@ http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced
 
 http://www.tutorialsforblender3d.com/
 
+= Game v1.0 =
+ 
+Realizzare tutte le mosse del proprio personaggio (corsa, corsa veloce, tiro)
+*movimento con le freccette
+*tiro con "a"
+*corsa  premendo "w"
+Menu iniziale con la scelta dei giocatori
+
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_

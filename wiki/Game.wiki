@@ -14,7 +14,7 @@ http://www.tutorialsforblender3d.com/
  
 Realizzare tutte le mosse del proprio personaggio (corsa, corsa veloce, tiro)
   * movimento con le freccette
-  * tiro con "a"
+  * tiro con "d"
   * corsa  premendo "w"
   Menu iniziale con la scelta dei giocatori e della durata della partita
   

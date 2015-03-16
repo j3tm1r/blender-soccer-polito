@@ -1,0 +1,11 @@
+# Per Jetmir #
+
+aspettiamo ancora la tua parte dei video... Devi cercare di fare in totale almeno 40 secondi...le scene che devi creare sono le seguenti:
+
+1-Homer si beve una birra sul ciglio della strada, viene colpito dalla palla e si gira verso la direzione da cui arriva (homer deve essere posizionato all'estremità sinistra della staccionata di legno che delimita il campo di gioco, ma deve essere fuori, sul marciapiede). A quel punto prende la palla, la calcia verso la porta opposta ed entra nel campo.
+
+2- Fai un'animazione nella quale smarca un personaggio (magari questo va in scivolata) e successivamente tira in porta (in porta si trova un altro personaggio) Fatta sono i file anim\_homer4 e anim\_homer5, usato due file perché in uno c'è il dribling e corsa nell altro cross, tiro e esultanza degli homer e disperazione stewie. Punizione lo faccio entro stasera e quello del ciglio credo domani.
+
+3- Fai un'animazione di un calcio di punizione (usa un personaggio per la barriera, uno in porta);
+
+4- inventati altre cose senza essere troppo ripetitivo fino ad arrivare ad una 40-ina di secondi

@@ -1,0 +1,61 @@
+# Introduzione #
+
+> ## Azioni da rendere nel pose mode ##
+
+> _giocatore_
+
+> | camminata | corsa | passaggio | tiro |
+|:----------|:------|:----------|:-----|
+
+> _portiere_
+
+> | tuffo sin/dex | parata braccio / gamba | uscita | camminata laterale |
+|:--------------|:-----------------------|:-------|:-------------------|
+
+> In conclusione ogni personaggio deve fare tutto!
+
+
+> ## Ambientazione ##
+
+> ![http://www.canalgame.com/data/juegos/2345/fifa_street_1.jpg](http://www.canalgame.com/data/juegos/2345/fifa_street_1.jpg)
+
+> Recinzione: http://blenderartists.org/forum/showthread.php?186741-How-to-make-a-chain-link-fence
+> ![http://sportsmedia.ign.com/sports/image/article/682/682314/fifa-street-2-the-venues-20060119042407159-000.jpg](http://sportsmedia.ign.com/sports/image/article/682/682314/fifa-street-2-the-venues-20060119042407159-000.jpg)
+
+> Terreno: sampietrini
+
+> ![http://nottecriminale.files.wordpress.com/2011/03/sampietrini.jpg](http://nottecriminale.files.wordpress.com/2011/03/sampietrini.jpg)
+
+> Recinzione: tutto attorno, porta con tubi colorati bianco/rossi, bidoni e oggettistica generale **GILLES**
+
+> Albero/i (tutorials ai link:
+> > http://scotchtapeworm3d.wordpress.com/2010/10/06/tutorial-realistic-medium-poly-tree
+> > http://www.blenderguru.com/how-to-create-stunning-trees/ ): **VINCENZO**
+
+
+> Palazzi (due o tre) stile favelas, bandiere o simili, baracchino della frutta:  **JETMIR**
+> http://www.blender3darchitect.com/2009/12/four-hour-length-tutorial-on-how-to-model-a-building-for-3d-interactive-visualization/
+![http://www.ips.org/TV/wsf2010/library/Favela-Nova_FriburgoNate-Cull.jpg](http://www.ips.org/TV/wsf2010/library/Favela-Nova_FriburgoNate-Cull.jpg)
+![http://www.adventurers.it/images/giulia%20s/Fruttivendolo.jpg](http://www.adventurers.it/images/giulia%20s/Fruttivendolo.jpg)
+![http://www.exchange3d.com/images/uploads/aff654/--955f_Grape_01.jpg](http://www.exchange3d.com/images/uploads/aff654/--955f_Grape_01.jpg)
+> Per le texture : http://www.cgtextures.com
+
+
+**PER IL VIDEO**
+
+_esempi_
+
+http://www.youtube.com/watch?v=7VjYrXaiu98&NR=1&feature=fvwp
+
+http://www.youtube.com/watch?v=PSpPFtuLJ6E
+
+
+
+
+# Dettagli #
+
+
+
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
